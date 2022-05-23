@@ -1,6 +1,16 @@
-### Hi there 👋
+### Hi, I am Milen Kunchev! 👋
+I’m currently learning Python 
+
+### GitHub Stats
+
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MilenKunchev&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenKunchev&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!--
+
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
+
+
 **MilenKunchev/MilenKunchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
