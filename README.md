@@ -1,5 +1,5 @@
 ### Hi, I am Milen Kunchev! 👋
-I’m currently learning Python 
+##### :dart: I’m currently learning Python 
 
 ### GitHub Stats
 
