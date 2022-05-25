@@ -1,5 +1,7 @@
 ### Hi, I am Milen Kunchev! 👋
+[![LinkedIn][linkedin-shield]][linkedin-url]
 ##### :dart: I’m currently learning Python 
+
 
 ### GitHub Stats
 
@@ -24,3 +26,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/milen-kunchev-603554237/
+
