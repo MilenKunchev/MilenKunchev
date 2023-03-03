@@ -1,6 +1,5 @@
 ### Hi, I am Milen Kunchev! 👋
-[![LinkedIn][linkedin-shield]][linkedin-url]
-##### :dart: I’m currently learning Python 
+
 
 
 ### GitHub Stats
